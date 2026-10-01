@@ -24,7 +24,7 @@ This is currently **Work in Progress**
 - [x] SSH configured
 - [x] Stable LAN IP configured
 - [ ] Firewall (ufw/nftables)
-- [ ] Automatic security updates (unattended-upgrades)
+- [x] Automatic security updates (unattended-upgrades)
 - [ ] Fail2ban / SSH hardening
 - [ ] Time sync (systemd-timesyncd or chrony)
 
